@@ -69,6 +69,6 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)
   More paper details please find in <a href='https://scholar.google.com/citations?user=tONFEQcAAAAJ&hl=en'>Google Scholar</a>
 
 # 🎖 Teaching Assistance
-- ENGG 1120C, Linear Algebra
+- ENGG 1120 C, Linear Algebra
 - FTEC 4006, Internet Finance
 - SEEM 2420, Operations Research I 
