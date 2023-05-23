@@ -54,19 +54,19 @@ Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, Jiajun Deng, **Mingyu Cui**, 
 Lingwei Meng, Jiawen Kang, **Mingyu Cui**, Haibin Wu, Xixin Wu, Helen Meng  
 *ISCA Interspeech 2023, Dublin, Ireland*
 - Exploring Self-supervised Pre-trained ASR Models For Dysarthric and Elderly Speech Recognition  
-Shujie Hu, Xurong Xie, Zengrui Jin, Mengzhe Geng, Yi Wang, **Mingyu Cui**, Jiajun Deng, Xunying Liu, Helen Meng
+Shujie Hu, Xurong Xie, Zengrui Jin, Mengzhe Geng, Yi Wang, **Mingyu Cui**, Jiajun Deng, Xunying Liu, Helen Meng   
 *IEEE ICASSP2023, Rhodes Island, Greece*
-- A Sidecar Separator Can Convert a Single-Talker Speech Recognition System to a Multi-Talker One
-Lingwei Meng, Jiawen Kang, **Mingyu Cui**, Yuejiao Wang, Xixin Wu, Helen Meng
+- A Sidecar Separator Can Convert a Single-Talker Speech Recognition System to a Multi-Talker One  
+Lingwei Meng, Jiawen Kang, **Mingyu Cui**, Yuejiao Wang, Xixin Wu, Helen Meng  
 *IEEE ICASSP2023, Rhodes Island, Greece* **(Oral Presentation)**
 - Confidence Score Based Speaker Adaptation of Conformer Speech Recognition Systems  
-Jiajun Deng, Xurong Xie, Tianzi Wang, **Mingyu Cui**, Boyang Xue, Zengrui Jin, Guinan Li, Shujie Hu, Xunying Liu
+Jiajun Deng, Xurong Xie, Tianzi Wang, **Mingyu Cui**, Boyang Xue, Zengrui Jin, Guinan Li, Shujie Hu, Xunying Liu  
 IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)
 - Two-pass decoding and cross-adaptation based system combination of end-to-end conformer and hybrid tdnn asr systems  
-**Mingyu Cui**, Jiajun Deng, Shujie Hu, Xurong Xie, Tianzi Wang, Shoukang Hu, Mengzhe Geng, Boyang Xue, Xunying Liu, Helen Meng
+**Mingyu Cui**, Jiajun Deng, Shujie Hu, Xurong Xie, Tianzi Wang, Shoukang Hu, Mengzhe Geng, Boyang Xue, Xunying Liu, Helen Meng  
 *ISCA Interspeech 2022, Incheon, Korea*  
 
-  More paper details please find in <a href=https://scholar.google.com/citations?user=tONFEQcAAAAJ&hl=en>Google Scholar</a>
+  More paper details please find in <a href='https://scholar.google.com/citations?user=tONFEQcAAAAJ&hl=en'>Google Scholar</a>
 
 # 🎖 Teaching Assistance
 - ENGG 1120C, Linear Algebra
