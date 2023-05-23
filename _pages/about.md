@@ -45,7 +45,7 @@ My research interests focus on long-context speech processing and recognition ba
 Shujie Hu, Xurong Xie, Mengzhe Geng, **Mingyu Cui**, Jiajun Deng, Guinan Li, Tianzi Wang, Helen Meng, Xunying Liu  
 *ISCA Interspeech 2023, Dublin, Ireland*
 - Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems  
-Jiajun Deng, Guinan Li, Xurong Xie, Zengrui Jin, **Mingyu Cui**, Tianzi Wang, Shujie Hu, Mengzhe Geng, Xunying Liu
+Jiajun Deng, Guinan Li, Xurong Xie, Zengrui Jin, **Mingyu Cui**, Tianzi Wang, Shujie Hu, Mengzhe Geng, Xunying Liu  
 *ISCA Interspeech 2023, Dublin, Ireland*
 - Use of Speech Impairment Severity for Dysarthric Speech Recognition  
 Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, Jiajun Deng, **Mingyu Cui**, Guinan Li, Jianwei Yu, Xurong Xie, Xunying Liu  
