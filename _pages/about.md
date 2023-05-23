@@ -37,7 +37,7 @@ My research interests focus on long-context speech processing and recognition ba
 # 💻 Experience
 - ***2020.08 - 2021.09***, Research Assitant, the Chinese University of Hong Kong (CUHK), China.
 
-# 📝 Recently Publications 
+# 📝 Publications 
 - Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems  
 **Mingyu Cui**, Jiawen Kang, Jiajun Deng, Xi Yin, Yutao Xie, Xie Chen, Xunying Liu.  
 *ISCA Interspeech 2023, Dublin, Ireland*
