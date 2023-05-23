@@ -27,7 +27,7 @@ My research interests focus on long-context speech processing and recognition ba
 - ***2023.05***: 5 conference papers have been accepted by *INTERSPEECH 2023* including 1 first-author paper. 
 - ***2023.02***: 2 conference papers have been accepted by *ICASSP 2023* and 1 journal has been accepted by *IEEE TASLP*.
 - ***2022.06***: 3 conference papers have been accepted by *INTERSPEECH 2022* including 1 first-author paper.
-- ***2021.06***: 1 journal has been accepted by IEEE TASLP.
+- ***2021.06***: 1 journal has been accepted by *IEEE TASLP*.
 
 # 📖 Educations
 - ***Since 2021.09***, Ph.D. student, the Chinese University of Hong Kong (CUHK), China.
