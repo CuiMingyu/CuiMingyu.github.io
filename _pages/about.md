@@ -40,7 +40,7 @@ My research interests focus on long-context speech processing and recognition ba
 # 📝 Publications 
 - Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems  
 **Mingyu Cui**, Jiawen Kang, Jiajun Deng, Xi Yin, Yutao Xie, Xie Chen, Xunying Liu.  
-*ISCA Interspeech 2023, Dublin, Ireland*
+*ISCA Interspeech 2023, Dublin, Ireland* **(Oral Presentation)**
 - Exploiting Cross-Domain And Cross-Lingual Ultrasound Tongue Imaging Features For Elderly And Dysarthric Speech Recognition  
 Shujie Hu, Xurong Xie, Mengzhe Geng, **Mingyu Cui**, Jiajun Deng, Guinan Li, Tianzi Wang, Helen Meng, Xunying Liu  
 *ISCA Interspeech 2023, Dublin, Ireland*
