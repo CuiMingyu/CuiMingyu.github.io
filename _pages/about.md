@@ -40,13 +40,14 @@ My research interests focus on long-context speech processing and recognition ba
 # 📝 Publications 
 - Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems  
 **Mingyu Cui**, Jiawen Kang, Jiajun Deng, Xi Yin, Yutao Xie, Xie Chen, Xunying Liu.  
-*ISCA Interspeech 2023, Dublin, Ireland* **(Oral Presentation)**
+*ISCA Interspeech 2023, Dublin, Ireland* <span style="color:red">**(Oral Presentation)**</span>
+
 - Exploiting Cross-Domain And Cross-Lingual Ultrasound Tongue Imaging Features For Elderly And Dysarthric Speech Recognition  
 Shujie Hu, Xurong Xie, Mengzhe Geng, **Mingyu Cui**, Jiajun Deng, Guinan Li, Tianzi Wang, Helen Meng, Xunying Liu  
 *ISCA Interspeech 2023, Dublin, Ireland*
 - Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems  
 Jiajun Deng, Guinan Li, Xurong Xie, Zengrui Jin, **Mingyu Cui**, Tianzi Wang, Shujie Hu, Mengzhe Geng, Xunying Liu  
-*ISCA Interspeech 2023, Dublin, Ireland* **(Oral Presentation)**
+*ISCA Interspeech 2023, Dublin, Ireland* <span style="color:red">**(Oral Presentation)**</span>
 - Use of Speech Impairment Severity for Dysarthric Speech Recognition  
 Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, Jiajun Deng, **Mingyu Cui**, Guinan Li, Jianwei Yu, Xurong Xie, Xunying Liu  
 *ISCA Interspeech 2023, Dublin, Ireland*
@@ -58,7 +59,7 @@ Shujie Hu, Xurong Xie, Zengrui Jin, Mengzhe Geng, Yi Wang, **Mingyu Cui**, Jiaju
 *IEEE ICASSP2023, Rhodes Island, Greece*
 - A Sidecar Separator Can Convert a Single-Talker Speech Recognition System to a Multi-Talker One  
 Lingwei Meng, Jiawen Kang, **Mingyu Cui**, Yuejiao Wang, Xixin Wu, Helen Meng  
-*IEEE ICASSP2023, Rhodes Island, Greece* **(Oral Presentation)**
+*IEEE ICASSP2023, Rhodes Island, Greece* <span style="color:red">**(Oral Presentation)**</span>
 - Confidence Score Based Speaker Adaptation of Conformer Speech Recognition Systems  
 Jiajun Deng, Xurong Xie, Tianzi Wang, **Mingyu Cui**, Boyang Xue, Zengrui Jin, Guinan Li, Shujie Hu, Xunying Liu  
 IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)
