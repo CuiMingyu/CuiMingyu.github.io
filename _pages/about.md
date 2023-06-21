@@ -46,7 +46,7 @@ Shujie Hu, Xurong Xie, Mengzhe Geng, **Mingyu Cui**, Jiajun Deng, Guinan Li, Tia
 *ISCA Interspeech 2023, Dublin, Ireland*
 - Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems  
 Jiajun Deng, Guinan Li, Xurong Xie, Zengrui Jin, **Mingyu Cui**, Tianzi Wang, Shujie Hu, Mengzhe Geng, Xunying Liu  
-*ISCA Interspeech 2023, Dublin, Ireland*
+*ISCA Interspeech 2023, Dublin, Ireland* **(Oral Presentation)**
 - Use of Speech Impairment Severity for Dysarthric Speech Recognition  
 Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, Jiajun Deng, **Mingyu Cui**, Guinan Li, Jianwei Yu, Xurong Xie, Xunying Liu  
 *ISCA Interspeech 2023, Dublin, Ireland*
