@@ -57,7 +57,7 @@ Lingwei Meng, Jiawen Kang, **Mingyu Cui**, Haibin Wu, Xixin Wu, Helen Meng
 - Exploring Self-supervised Pre-trained ASR Models For Dysarthric and Elderly Speech Recognition  
 Shujie Hu, Xurong Xie, Zengrui Jin, Mengzhe Geng, Yi Wang, **Mingyu Cui**, Jiajun Deng, Xunying Liu, Helen Meng   
 *IEEE ICASSP2023, Rhodes Island, Greece*
-- <a href='https://arxiv.org/pdf/2302.09908.pdf'>A Sidecar Separator Can Convert a Single-Talker Speech Recognition System to a Multi-Talker One</a>
+- <a href='https://arxiv.org/pdf/2302.09908.pdf'>A Sidecar Separator Can Convert a Single-Talker Speech Recognition System to a Multi-Talker One</a>  
 Lingwei Meng, Jiawen Kang, **Mingyu Cui**, Yuejiao Wang, Xixin Wu, Helen Meng  
 *IEEE ICASSP2023, Rhodes Island, Greece* <span style="color:red">**(Oral Presentation)**</span>
 - Confidence Score Based Speaker Adaptation of Conformer Speech Recognition Systems  
