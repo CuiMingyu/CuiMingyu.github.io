@@ -38,11 +38,11 @@ My research interests focus on long-context speech processing and recognition ba
 - ***2020.08 - 2021.09***, Research Assitant, the Chinese University of Hong Kong (CUHK), China.
 
 # 📝 Publications 
-- Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems  
+- <a href='https://arxiv.org/pdf/2306.13307.pdf'>Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems</a>  
 **Mingyu Cui**, Jiawen Kang, Jiajun Deng, Xi Yin, Yutao Xie, Xie Chen, Xunying Liu.  
 *ISCA Interspeech 2023, Dublin, Ireland* <span style="color:red">**(Oral Presentation)**</span>
 
-- Exploiting Cross-Domain And Cross-Lingual Ultrasound Tongue Imaging Features For Elderly And Dysarthric Speech Recognition  
+- Exploiting Cross-Domain And Cross-Lingual Ultrasound Tongue Imaging Features For Elderly And Dysarthric Speech Recognition
 Shujie Hu, Xurong Xie, Mengzhe Geng, **Mingyu Cui**, Jiajun Deng, Guinan Li, Tianzi Wang, Helen Meng, Xunying Liu  
 *ISCA Interspeech 2023, Dublin, Ireland*
 - Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems  
@@ -57,7 +57,7 @@ Lingwei Meng, Jiawen Kang, **Mingyu Cui**, Haibin Wu, Xixin Wu, Helen Meng
 - Exploring Self-supervised Pre-trained ASR Models For Dysarthric and Elderly Speech Recognition  
 Shujie Hu, Xurong Xie, Zengrui Jin, Mengzhe Geng, Yi Wang, **Mingyu Cui**, Jiajun Deng, Xunying Liu, Helen Meng   
 *IEEE ICASSP2023, Rhodes Island, Greece*
-- A Sidecar Separator Can Convert a Single-Talker Speech Recognition System to a Multi-Talker One  
+- <a href='https://arxiv.org/pdf/2302.09908.pdf'>A Sidecar Separator Can Convert a Single-Talker Speech Recognition System to a Multi-Talker One</a>
 Lingwei Meng, Jiawen Kang, **Mingyu Cui**, Yuejiao Wang, Xixin Wu, Helen Meng  
 *IEEE ICASSP2023, Rhodes Island, Greece* <span style="color:red">**(Oral Presentation)**</span>
 - Confidence Score Based Speaker Adaptation of Conformer Speech Recognition Systems  
