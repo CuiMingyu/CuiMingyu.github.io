@@ -17,17 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I am currently a Ph.D. student at the Department of Systems Engineering and Engineering Management, the Chinese University of Hong Kong (CUHK) supervised by <a href='https://www1.se.cuhk.edu.hk/~xyliu/'>Prof. LIU Xunying</a> and co-supervised by <a href='https://chenxie95.github.io/'>Prof. CHEN Xie</a>. Before that, I finished my Master and Bachelor degrees in CUHK and SouthEast University (SEU) respectively.
+I am a final-year Ph.D. candidate (expected graduation: April 2026) at the Department of Systems Engineering and Engineering Management, the Chinese University of Hong Kong (CUHK), supervised by <a href='https://www1.se.cuhk.edu.hk/~xyliu/'>Prof. LIU Xunying</a> and co-supervised by <a href='https://chenxie95.github.io/'>Prof. CHEN Xie</a>. Before that, I finished my Master and Bachelor degrees in CUHK and SouthEast University (SEU) respectively.
 
-My research interests focus on long-context ASR, multimodal LLM, and streaming LLM.
+My research interests focus on multimodal speech-language models, self-supervised learning for speech, and large-scale ASR.
 
 
 
 # 🔥 News
-- ***2024.06***: We released a multilingual ASR corpus GigaSpeech2 comprising 30,000 hours of Thai, Indonesian, and Vietnamese!
-- ***2024.06***: 2 conference papers have been accepted by *INTERSPEECH 2024*. 
-- ***2023.12***: 2 conference papers have been accepted by *ICASSP 2024*. 
-- ***2023.05***: 5 conference papers have been accepted by *INTERSPEECH 2023* including 1 first-author paper. 
+- ***2025.12***: 1 first-author paper accepted by *ICASSP 2026*.
+- ***2025.06***: 1 first-author paper and 4 co-authored papers accepted by *INTERSPEECH 2025*. GigaSpeech 2 accepted by *ACL 2025*.
+- ***2025.01***: 2 conference papers have been accepted by *ICASSP 2025*.
+- ***2024.06***: 2 conference papers have been accepted by *INTERSPEECH 2024*.
+- ***2023.12***: 2 conference papers have been accepted by *ICASSP 2024*.
+- ***2023.05***: 5 conference papers have been accepted by *INTERSPEECH 2023* including 1 first-author paper.
 - ***2023.02***: 2 conference papers have been accepted by *ICASSP 2023* and 1 journal has been accepted by *IEEE TASLP*.
 - ***2022.06***: 3 conference papers have been accepted by *INTERSPEECH 2022* including 1 first-author paper.
 - ***2021.06***: 1 journal has been accepted by *IEEE TASLP*.
@@ -38,31 +40,38 @@ My research interests focus on long-context ASR, multimodal LLM, and streaming L
 - ***2015.06 - 2019.07***, Bachelor of Software Engineering, SouthEast University (SEU), China. 
 
 # 💻 Experience
-- ***2024.06 - Now***, Research Intern, Noah's Ark Lab, Hong Kong SAR, China.
+- ***2025.12 - Now***, Research Intern, Hunyuan, Tencent, Shenzhen, China.
+- ***2025.06 - 2025.12***, Research Intern, Tencent AI Lab, Shenzhen, China.
+- ***2024.06 - 2025.06***, Research Intern, Noah's Ark Lab, Huawei, Hong Kong SAR, China.
 - ***2023.10 - 2024.02***, Remote Research Intern, Speech Lab, Alibaba DAMO Academy, China.
 - ***2022.03 - 2023.09***, Research Intern, International Digital Economy Academy (IDEA), China.
-- ***2020.08 - 2021.09***, Research Assitant, The Chinese University of Hong Kong (CUHK), China.
+- ***2020.08 - 2021.09***, Research Assistant, The Chinese University of Hong Kong (CUHK), China.
 
-# 📝 Selected Publications 
-- <a href='https://arxiv.org/html/2406.11546v1'> GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for Low-Resource Languages with Automated Crawling, Transcription and Refinement</a>
-Yifan Yang, Zheshu Song, Jianheng Zhuo, **Mingyu Cui**, Jinpeng Li, Bo Yang, et al. 
-*Submitted to NIPS 2024*
+# 📝 Selected Publications
 
-- <a href='https://arxiv.org/pdf/2306.13307.pdf'>Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems</a>  
-**Mingyu Cui**, Jiawen Kang, Jiajun Deng, Xi Yin, Yutao Xie, Xie Chen, Xunying Liu.  
+- Exploring SSL Discrete Tokens For Multilingual Automatic Speech Recognition
+**Mingyu Cui**, Mengzhe Geng, Yiwen Shao, Jiawen Kang, Lingwei Meng, Dingdong Wang, Chenxing Li, Meng Yu, Xunying Liu
+*IEEE ICASSP 2026*
+
+- Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR
+**Mingyu Cui**, Yifan Yang, Jiajun Deng, Jiawen Kang, Shujie Hu, Tianzi Wang, Zhaoqing Li, Shiliang Zhang, Xie Chen, Xunying Liu
+*ISCA Interspeech 2025*
+
+- Exploring Cross-Utterance Speech Contexts for Conformer-Transducer Speech Recognition Systems
+**Mingyu Cui**, Mengzhe Geng, Jiajun Deng, Chengxi Deng, Jiawen Kang, Shujie Hu, Guinan Li, Tianzi Wang, Zhaoqing Li, Xie Chen, Xunying Liu
+*IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)*
+
+- <a href='https://arxiv.org/pdf/2306.13307.pdf'>Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems</a>
+**Mingyu Cui**, Jiawen Kang, Jiajun Deng, Xi Yin, Yutao Xie, Xie Chen, Xunying Liu
 *ISCA Interspeech 2023, Dublin, Ireland* <span style="color:red">**(Oral Presentation)**</span>
 
-- Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems  
-Jiajun Deng, Guinan Li, Xurong Xie, Zengrui Jin, **Mingyu Cui**, Tianzi Wang, Shujie Hu, Mengzhe Geng, Xunying Liu  
-*ISCA Interspeech 2023, Dublin, Ireland* <span style="color:red">**(Oral Presentation)**</span>
+- Two-pass Decoding and Cross-adaptation Based System Combination of End-to-End Conformer and Hybrid TDNN ASR Systems
+**Mingyu Cui**, Jiajun Deng, Shujie Hu, Xurong Xie, Tianzi Wang, Shoukang Hu, Mengzhe Geng, Boyang Xue, Xunying Liu, Helen Meng
+*ISCA Interspeech 2022, Incheon, Korea*
 
-- <a href='https://arxiv.org/pdf/2302.09908.pdf'>A Sidecar Separator Can Convert a Single-Talker Speech Recognition System to a Multi-Talker One</a>  
-Lingwei Meng, Jiawen Kang, **Mingyu Cui**, Yuejiao Wang, Xixin Wu, Helen Meng  
-*IEEE ICASSP2023, Rhodes Island, Greece* <span style="color:red">**(Oral Presentation)**</span>
-
-- Two-pass decoding and cross-adaptation based system combination of end-to-end conformer and hybrid tdnn asr systems  
-**Mingyu Cui**, Jiajun Deng, Shujie Hu, Xurong Xie, Tianzi Wang, Shoukang Hu, Mengzhe Geng, Boyang Xue, Xunying Liu, Helen Meng  
-*ISCA Interspeech 2022, Incheon, Korea*  
+- <a href='https://arxiv.org/html/2406.11546v1'>GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for Low-Resource Languages with Automated Crawling, Transcription and Refinement</a>
+Yifan Yang, Zheshu Song, Jianheng Zhuo, **Mingyu Cui**, Jinpeng Li, Bo Yang, et al.
+*ACL 2025*
 
   More paper details please find in <a href='https://scholar.google.com/citations?user=tONFEQcAAAAJ&hl=en'>Google Scholar</a>
 
