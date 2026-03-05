@@ -25,6 +25,7 @@ My research interests focus on multimodal speech-language models, self-supervise
 
 # 🔥 News
 - ***2025.12***: 1 first-author paper accepted by *ICASSP 2026*.
+- ***2025.09***: 1 first-author journal accepted by *IEEE/ACM TASLP*.
 - ***2025.06***: 1 first-author paper and 4 co-authored papers accepted by *INTERSPEECH 2025*. GigaSpeech 2 accepted by *ACL 2025*.
 - ***2025.01***: 2 conference papers have been accepted by *ICASSP 2025*.
 - ***2024.06***: 2 conference papers have been accepted by *INTERSPEECH 2024*.
@@ -49,28 +50,28 @@ My research interests focus on multimodal speech-language models, self-supervise
 
 # 📝 Selected Publications
 
-- Exploring SSL Discrete Tokens For Multilingual Automatic Speech Recognition
-**Mingyu Cui**, Mengzhe Geng, Yiwen Shao, Jiawen Kang, Lingwei Meng, Dingdong Wang, Chenxing Li, Meng Yu, Xunying Liu
+- Exploring SSL Discrete Tokens For Multilingual Automatic Speech Recognition<br>
+**Mingyu Cui**, Mengzhe Geng, Yiwen Shao, Jiawen Kang, Lingwei Meng, Dingdong Wang, Chenxing Li, Meng Yu, Xunying Liu<br>
 *IEEE ICASSP 2026*
 
-- Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR
-**Mingyu Cui**, Yifan Yang, Jiajun Deng, Jiawen Kang, Shujie Hu, Tianzi Wang, Zhaoqing Li, Shiliang Zhang, Xie Chen, Xunying Liu
+- Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR<br>
+**Mingyu Cui**, Yifan Yang, Jiajun Deng, Jiawen Kang, Shujie Hu, Tianzi Wang, Zhaoqing Li, Shiliang Zhang, Xie Chen, Xunying Liu<br>
 *ISCA Interspeech 2025*
 
-- Exploring Cross-Utterance Speech Contexts for Conformer-Transducer Speech Recognition Systems
-**Mingyu Cui**, Mengzhe Geng, Jiajun Deng, Chengxi Deng, Jiawen Kang, Shujie Hu, Guinan Li, Tianzi Wang, Zhaoqing Li, Xie Chen, Xunying Liu
+- Exploring Cross-Utterance Speech Contexts for Conformer-Transducer Speech Recognition Systems<br>
+**Mingyu Cui**, Mengzhe Geng, Jiajun Deng, Chengxi Deng, Jiawen Kang, Shujie Hu, Guinan Li, Tianzi Wang, Zhaoqing Li, Xie Chen, Xunying Liu<br>
 *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)*
 
-- <a href='https://arxiv.org/pdf/2306.13307.pdf'>Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems</a>
-**Mingyu Cui**, Jiawen Kang, Jiajun Deng, Xi Yin, Yutao Xie, Xie Chen, Xunying Liu
+- <a href='https://arxiv.org/pdf/2306.13307.pdf'>Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems</a><br>
+**Mingyu Cui**, Jiawen Kang, Jiajun Deng, Xi Yin, Yutao Xie, Xie Chen, Xunying Liu<br>
 *ISCA Interspeech 2023, Dublin, Ireland* <span style="color:red">**(Oral Presentation)**</span>
 
-- Two-pass Decoding and Cross-adaptation Based System Combination of End-to-End Conformer and Hybrid TDNN ASR Systems
-**Mingyu Cui**, Jiajun Deng, Shujie Hu, Xurong Xie, Tianzi Wang, Shoukang Hu, Mengzhe Geng, Boyang Xue, Xunying Liu, Helen Meng
+- Two-pass Decoding and Cross-adaptation Based System Combination of End-to-End Conformer and Hybrid TDNN ASR Systems<br>
+**Mingyu Cui**, Jiajun Deng, Shujie Hu, Xurong Xie, Tianzi Wang, Shoukang Hu, Mengzhe Geng, Boyang Xue, Xunying Liu, Helen Meng<br>
 *ISCA Interspeech 2022, Incheon, Korea*
 
-- <a href='https://arxiv.org/html/2406.11546v1'>GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for Low-Resource Languages with Automated Crawling, Transcription and Refinement</a>
-Yifan Yang, Zheshu Song, Jianheng Zhuo, **Mingyu Cui**, Jinpeng Li, Bo Yang, et al.
+- <a href='https://arxiv.org/html/2406.11546v1'>GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for Low-Resource Languages with Automated Crawling, Transcription and Refinement</a><br>
+Yifan Yang, Zheshu Song, Jianheng Zhuo, **Mingyu Cui**, Jinpeng Li, Bo Yang, et al.<br>
 *ACL 2025*
 
   More paper details please find in <a href='https://scholar.google.com/citations?user=tONFEQcAAAAJ&hl=en'>Google Scholar</a>
