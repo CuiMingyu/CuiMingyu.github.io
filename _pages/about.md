@@ -24,6 +24,7 @@ My research interests focus on multimodal speech-language models, self-supervise
 
 
 # 🔥 News
+- ***2026.01***: Released *Covo-Audio Technical Report* as a core contributor.
 - ***2025.12***: 1 first-author paper accepted by *ICASSP 2026*.
 - ***2025.09***: 1 first-author journal accepted by *IEEE/ACM TASLP*.
 - ***2025.06***: 1 first-author paper and 4 co-authored papers accepted by *INTERSPEECH 2025*. GigaSpeech 2 accepted by *ACL 2025*.
