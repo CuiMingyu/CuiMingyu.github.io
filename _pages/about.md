@@ -24,17 +24,21 @@ My research interests focus on multimodal speech-language models, self-supervise
 
 
 # 🔥 News
-- ***2026.01***: Released *Covo-Audio Technical Report* as a core contributor.
-- ***2025.12***: 1 first-author paper accepted by *ICASSP 2026*.
-- ***2025.09***: 1 first-author journal accepted by *IEEE/ACM TASLP*.
-- ***2025.06***: 1 first-author paper and 4 co-authored papers accepted by *INTERSPEECH 2025*. GigaSpeech 2 accepted by *ACL 2025*.
-- ***2025.01***: 2 conference papers have been accepted by *ICASSP 2025*.
-- ***2024.06***: 2 conference papers have been accepted by *INTERSPEECH 2024*.
-- ***2023.12***: 2 conference papers have been accepted by *ICASSP 2024*.
-- ***2023.05***: 5 conference papers have been accepted by *INTERSPEECH 2023* including 1 first-author paper.
-- ***2023.02***: 2 conference papers have been accepted by *ICASSP 2023* and 1 journal has been accepted by *IEEE TASLP*.
-- ***2022.06***: 3 conference papers have been accepted by *INTERSPEECH 2022* including 1 first-author paper.
-- ***2021.06***: 1 journal has been accepted by *IEEE TASLP*.
+<div style="max-height: 260px; overflow-y: auto; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px 16px; margin-bottom: 10px;">
+<ul>
+<li><b><i>2026.01</i></b>: Released <i>Covo-Audio Technical Report</i> as a core contributor.</li>
+<li><b><i>2025.12</i></b>: 1 first-author paper accepted by <i>ICASSP 2026</i>.</li>
+<li><b><i>2025.09</i></b>: 1 first-author journal accepted by <i>IEEE/ACM TASLP</i>.</li>
+<li><b><i>2025.06</i></b>: 1 first-author paper and 4 co-authored papers accepted by <i>INTERSPEECH 2025</i>. GigaSpeech 2 accepted by <i>ACL 2025</i>.</li>
+<li><b><i>2025.01</i></b>: 2 conference papers have been accepted by <i>ICASSP 2025</i>.</li>
+<li><b><i>2024.06</i></b>: 2 conference papers have been accepted by <i>INTERSPEECH 2024</i>.</li>
+<li><b><i>2023.12</i></b>: 2 conference papers have been accepted by <i>ICASSP 2024</i>.</li>
+<li><b><i>2023.05</i></b>: 5 conference papers have been accepted by <i>INTERSPEECH 2023</i> including 1 first-author paper.</li>
+<li><b><i>2023.02</i></b>: 2 conference papers have been accepted by <i>ICASSP 2023</i> and 1 journal has been accepted by <i>IEEE TASLP</i>.</li>
+<li><b><i>2022.06</i></b>: 3 conference papers have been accepted by <i>INTERSPEECH 2022</i> including 1 first-author paper.</li>
+<li><b><i>2021.06</i></b>: 1 journal has been accepted by <i>IEEE TASLP</i>.</li>
+</ul>
+</div>
 
 # 📖 Educations
 - ***Since 2021.09***, Ph.D. student, The Chinese University of Hong Kong (CUHK), China.
