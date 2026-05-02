@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I am a final-year Ph.D. candidate (expected graduation: April 2026) at the Department of Systems Engineering and Engineering Management, the Chinese University of Hong Kong (CUHK), supervised by <a href='https://www1.se.cuhk.edu.hk/~xyliu/'>Prof. LIU Xunying</a> and co-supervised by <a href='https://chenxie95.github.io/'>Prof. CHEN Xie</a>. Before that, I finished my Master and Bachelor degrees in CUHK and SouthEast University (SEU) respectively.
+I am an Algorithm Researcher at Tencent Hunyuan Multimodal, focusing on ASR post-training for large multimodal models. I received my Ph.D. degree (April 2026) from the Department of Systems Engineering and Engineering Management, the Chinese University of Hong Kong (CUHK), supervised by <a href='https://www1.se.cuhk.edu.hk/~xyliu/'>Prof. LIU Xunying</a> and co-supervised by <a href='https://chenxie95.github.io/'>Prof. CHEN Xie</a>. Before that, I finished my Master and Bachelor degrees in CUHK and SouthEast University (SEU) respectively.
 
 My research interests focus on multimodal speech-language models, self-supervised learning for speech, and large-scale ASR.
 
@@ -26,6 +26,8 @@ My research interests focus on multimodal speech-language models, self-supervise
 # 🔥 News
 <div style="max-height: 260px; overflow-y: auto; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px 16px; margin-bottom: 10px;">
 <ul>
+<li><b><i>2026.05</i></b>: Joined <i>Tencent Hunyuan Multimodal</i> as an Algorithm Researcher.</li>
+<li><b><i>2026.04</i></b>: Successfully defended my Ph.D. thesis at CUHK! 🎓</li>
 <li><b><i>2026.01</i></b>: Released <i>Covo-Audio Technical Report</i> as a core contributor.</li>
 <li><b><i>2025.12</i></b>: 1 first-author paper accepted by <i>ICASSP 2026</i>.</li>
 <li><b><i>2025.09</i></b>: 1 first-author journal accepted by <i>IEEE/ACM TASLP</i>.</li>
@@ -41,12 +43,13 @@ My research interests focus on multimodal speech-language models, self-supervise
 </div>
 
 # 📖 Educations
-- ***Since 2021.09***, Ph.D. student, The Chinese University of Hong Kong (CUHK), China.
+- ***2021.09 - 2026.04***, Ph.D. in Systems Engineering, The Chinese University of Hong Kong (CUHK), China.
 - ***2019.09 - 2020.06***, Master of Computer Science, the Chinese University of Hong Kong (CUHK), China.
 - ***2015.06 - 2019.07***, Bachelor of Software Engineering, SouthEast University (SEU), China. 
 
 # 💻 Experience
-- ***2025.12 - Now***, Research Intern, Hunyuan, Tencent, Shenzhen, China.
+- ***2026.05 - Now***, Algorithm Researcher, Hunyuan Multimodal, Tencent, Shenzhen, China.
+- ***2025.12 - 2026.04***, Research Intern, Hunyuan, Tencent, Shenzhen, China.
 - ***2025.06 - 2025.12***, Research Intern, Tencent AI Lab, Shenzhen, China.
 - ***2024.06 - 2025.06***, Research Intern, Noah's Ark Lab, Huawei, Hong Kong SAR, China.
 - ***2023.10 - 2024.02***, Remote Research Intern, Speech Lab, Alibaba DAMO Academy, China.

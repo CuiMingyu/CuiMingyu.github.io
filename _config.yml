@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingyu Cui"
-description              : "Ph.D. Candidate | Multimodal Speech LLM"
+description              : "Algorithm Researcher @ Tencent Hunyuan Multimodal"
 repository               : "CuiMingyu/CuiMingyu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mingyu Cui"
   avatar           : "images/head.jpeg"
-  bio              : "The Chinese University of Hong Kong"
-  location         : "Hong Kong, China"
-  employer         :
+  bio              : "Tencent Hunyuan Multimodal"
+  location         : "Shenzhen, China"
+  employer         : "Tencent"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tONFEQcAAAAJ"
   email            : "mycui@se.cuhk.edu.hk"
